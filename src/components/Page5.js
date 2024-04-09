@@ -27,7 +27,7 @@ function Page5() {
             <div className='flex flex-col justify-center items-center min-h-screen'>
                 <div className="flex flex-col md:flex-row items-center">
                     <div className="h-12 md:h-auto mb-4 md:mb-0 rounded-full overflow-hidden">
-                        <img src="https://plus.unsplash.com/premium_photo-1683140811960-956e5bbf858e?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Y2FydG9vbnxlbnwwfHwwfHx8MA%3D%3D" alt="Brilliant Image" className="h-12 md:h-auto w-auto rounded-full" />
+                        <img src="https://plus.unsplash.com/premium_photo-1683140811960-956e5bbf858e?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Y2FydG9vbnxlbnwwfHwwfHx8MA%3D%3D" alt='#' className="h-12 md:h-auto w-auto rounded-full" />
                     </div>
                     <div className="w-full md:w-80 ml-0 md:ml-6">
                         <p className="font-bold text-center md:text-left">You're on your way!</p><br></br>
