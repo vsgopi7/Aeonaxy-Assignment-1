@@ -9,7 +9,7 @@ function Page4() {
         setSelectedOption(option);
     };
     const goBack = () => {
-        // Navigate back to the previous page
+
         window.history.back();
     };
 
