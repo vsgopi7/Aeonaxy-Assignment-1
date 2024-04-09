@@ -3,7 +3,6 @@ import { Link } from 'react-router-dom';
 
 function Page3() {
   const goBack = () => {
-    // Navigate back to the previous page
     window.history.back();
   };
   return (
