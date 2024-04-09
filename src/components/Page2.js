@@ -18,7 +18,7 @@ function Page2() {
   return (
     <body>
       <header className="my-5">
-        <button className="bg-blue-500 text-white py-2 px-4 rounded-md m-4" >Back</button>
+        <button className="bg-blue-500 text-white py-2 px-4 rounded-md m-4" onClick={goBack}>Back</button>
         <div className="font-bold text-lg sm:text-xl flex justify-center my-3">Which are you most interested in?</div>
         <div className="flex justify-center text-sm">Choose just one. This will help us get you started (but won't limit your experience).</div>
       </header>
